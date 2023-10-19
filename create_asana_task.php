@@ -9,7 +9,7 @@ $taskData = [
         'name' => "{$errorName}", // Name of the task
         'notes' => "{$errorDetails}", // Error message to include in the task
         'assignee' => '', // Replace with the assignee ID in Asana
-        'projects' => [ // related projects
+        'projects' => [ 
             '' // Replace with the project ID in Asana
         ],
         'due_on' => date("Y-m-d", strtotime("+5 days")) //due date
