@@ -6,7 +6,6 @@ This PHP application serves as a custom error handler to monitor exceptions and 
 - [Features](#features)
 - [Installation](#installation)
 - [Configuration](#configuration)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
